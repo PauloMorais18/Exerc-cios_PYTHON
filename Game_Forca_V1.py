@@ -1,3 +1,5 @@
+'''Code um jogo de forca'''
+
 import random
 
 def escolher_palavra():
